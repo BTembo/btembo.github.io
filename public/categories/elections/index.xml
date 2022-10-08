@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elections on Bernard Tembo, PhD</title>
+    <link>/categories/elections/</link>
+    <description>Recent content in Elections on Bernard Tembo, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/elections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tembo&#39;s 2021 Elections Prediction Model</title>
+      <link>/blog/elections-prediction/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/elections-prediction/</guid>
+      <description>Download the .pdf document here
+Introduction This write-up documents the Tembo&amp;rsquo;s Prediction Model for Zambia&amp;rsquo;s 2021 Elections. It focuses on the Presidential elections. The model is built bottom-up from constituency level. At this time, Zambia (in 2021) has 156 constituencies. All the historical and current registration data used in developing this model is obtained from the Electoral Commission of Zambia (ECZ). R programming software (an open source software) was used to simulate different elections scenarios.</description>
+    </item>
+    
+  </channel>
+</rss>
