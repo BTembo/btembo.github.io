@@ -33,7 +33,8 @@ enableEmoji = true
   description = "A philosophy and data science blog"
   #favicon = "/img/favicon.ico"
   favicon = "/img/bt_favicon.ico"
-  logo = "/img/BTlogo_Aug_v2_b&w.png"
+  #logo = "/img/BTlogo_Aug_v2_b&w.png"
+  logo = "/img/bt_logo.png"
   mainSections = ""  #["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
