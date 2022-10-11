@@ -1,8 +1,15 @@
 ---
 author: Bernard Tembo
+
 categories:
-- Economics, Budget
+ - Economics
+ - Budget
+ 
+tags:
+ - analysis
+ 
 date: "2021-11-02"
+
 draft: false
 excerpt: This analysis focuses on the energy and mining sectors’ pronouncements and their corresponding proposed measures in the 2022 Budget. Developments in these two sectors generate a lot of public interest. On the one hand, there are sentiments that the mining sector does not pay its fair share of taxes, and on the other hand, increasing energy tariffs has financial implications on households and directly impacts on the well-being of citizens. In short, the Government is usually under significant lobbying pressure.
 layout: single
@@ -96,13 +103,10 @@ That said, the Government needs to provide more details on how the tax concessio
 
 The Government should:
 
-1. Urgently implement a cost-reflective tariff. This could, in the medium to long-term, facilitate security of energy supply: which is required to support economic growth.
+1.  Urgently implement a cost-reflective tariff. This could, in the medium to long-term, facilitate security of energy supply: which is required to support economic growth.
 
-2. Ensure that ERB is independent.
+2.  Ensure that ERB is independent.
 
-3. Provide more information on how it envisions the tax concessions given to the private sector would impact CIT and other revenue streams.
-Based on the projections (given on page 44 of the Budget), numbers are internally inconsistent.
+3.  Provide more information on how it envisions the tax concessions given to the private sector would impact CIT and other revenue streams. Based on the projections (given on page 44 of the Budget), numbers are internally inconsistent.
 
-4. Be cautious with its estimation of revenue from the mining sector because copper prices are uncertain. Currently, the projections for MRT are only achievable under a high price scenario (an optimistic scenario).
-
-
+4.  Be cautious with its estimation of revenue from the mining sector because copper prices are uncertain. Currently, the projections for MRT are only achievable under a high price scenario (an optimistic scenario).

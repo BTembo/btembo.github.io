@@ -5,7 +5,7 @@ title = "Bernard Tembo, PhD"
 author = "Bernard Tembo, PhD"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
-disqusShortname = "" # see params.utterances to use utterances instead of Disqus
+disqusShortname = "btembo" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
@@ -75,7 +75,7 @@ enableEmoji = true
   [params.utterances]
     use_utterances = true
     repo_name = "BTembo/tembofy.github.io"
-    issue_term = "pathname" # url, pathname, or title
+    issue_term = "title" # url, pathname, or title
     theme = "boxy-light"
     label = "comments :crystal_ball:"
 
@@ -134,7 +134,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Apéro"
+    title = "About Me"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -142,11 +142,11 @@ enableEmoji = true
     title = "Blog"
     url = "/blog/"
     weight = 2
-#  [[menu.header]]
-#    name = "Projects"
-#    title = "Project Portfolio"
-#    url = "/project/"
-#    weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 3
 #  [[menu.header]]
 #    name = "Talks"
 #    title = "Talks"

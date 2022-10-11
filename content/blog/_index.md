@@ -1,10 +1,10 @@
 ---
 # author: The R Markdown Team @RStudio
-# cascade:
-#   author: The R Markdown Team @RStudio
-#   show_author_byline: true
-#   show_comments: true
-#   show_post_date: true
+cascade:
+#  author: "Bernard Tembo"
+#  show_author_byline: true
+  show_comments: true
+  show_post_date: true
 #   sidebar:
 #     show_sidebar_adunit: false
 #     text_link_label: View recent posts

@@ -1,8 +1,16 @@
 ---
 author: Bernard Tembo
 categories:
-- Elections
+ - Elections
+ - Data Science
+ 
+tags:
+ - r
+ - data science
+ - machine learning
+ 
 date: "2021-08-11"
+
 draft: false
 excerpt: This write-up documents the Tembo's Prediction Model for Zambia's 2021 Elections. It focuses on the Presidential elections. The model is built bottom-up from constituency level. At this time, Zambia (in 2021) has 156 constituencies. All the historical and current registration data used in developing this model is obtained from the Electoral Commission of Zambia (ECZ). R programming software (an open source software) was used to simulate different elections scenarios.
 layout: single

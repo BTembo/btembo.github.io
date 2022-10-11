@@ -29,19 +29,52 @@
     <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/culture/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/data-science/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/data-science/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/society/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/2022-10-11-zambian-names/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/budget-commentary-2021/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/tags/analysis/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/categories/budget/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/economics-budget/</loc>
+    <loc>/categories/economics/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/elections/</loc>
@@ -70,33 +103,6 @@
   </url><url>
     <loc>/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
