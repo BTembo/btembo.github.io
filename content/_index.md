@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I'm a data enthusiast. I love analysing data, making beautiful graphs and communicating about technical topics with diverse audiences.
+description: I'm an interdisciplinary energy economist and a data enthusiast. I love analysing data, making beautiful graphs and communicating about technical topics with diverse audiences.
 image_left: false
 images:
 - img/BT_sketch2.png
